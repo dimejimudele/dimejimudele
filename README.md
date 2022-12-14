@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oladimeji Mudele
 - 👀 I’m interested in geospatial ML, causal interference, and data analysis for understanding the interactions between climate and health outcomes in the global south.
 - 🌱 I’m currently learning causal inference and public health policy
-- 💞️ I’m looking to collaborate on the application of satellite imagery and ML for health outcomes modeling and undertanding.
+- 💞️ I’m looking to collaborate on the application of satellite imagery and ML for health outcomes modeling
 - 📫 How to reach me on mudeledimeji@gmail.com
 
 <!---
