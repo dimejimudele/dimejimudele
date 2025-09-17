@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Oladimeji Mudele
-- 👀 I’m interested in remote sensing, geospatial ML, causal interference, and data analysis for understanding the interactions between climate and health outcomes
-- 🌱 I’m currently learning causal inference and public health policy
-- 💞️ I’m looking to collaborate on the application of satellite imagery and ML for health outcomes modeling
-- 📫 How to reach me on mudeledimeji@gmail.com
+⚡ Engineer/Scientist working across AI, computer vision, deep learning, geospatial ML, and causal inference, with a focus on building robust, production-ready systems.
+
+☁️ Experienced in on-device inference, cloud-scale ML infrastructure, distributed systems, and end-to-end model deployment.
+
+🧠 Exploring reinforcement learning, large language models, and advanced optimization techniques to push the boundaries of intelligent systems.
+
+🤝 Open to collaborations on autonomous systems, perception, and next-generation ML architectures.
+
+📫 Reach me at mudeledimeji@gmail.com
 
 <!---
 dimejimudele/dimejimudele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
